@@ -1,0 +1,8 @@
+.dep
+libCOAST.so
+*.o
+*.a
+__pycache__/
+html/
+latex/
+archive.tar.gz
